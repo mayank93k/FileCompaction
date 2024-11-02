@@ -1,2 +1,2 @@
 # FileCompaction
-File compaction of the data frame to optimised number of files to be written to destination.
+Optimizes the DataFrame by compacting it into an optimal number of files for writing to the destination.
