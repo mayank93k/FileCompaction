@@ -1,4 +1,4 @@
-name := "File Size Compaction"
+name := "File Compaction"
 
 version := "0.1"
 
